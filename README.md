@@ -19,6 +19,7 @@ building strong foundations in Python, Data Analytics, Machine Learning, and AI.
 
 ### 🤝 Connect With Me
 - 📧 **Email:** fahadzn33@gmail.com
+- ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Muhammad%20Fahad&fontSize=45&fontColor=ffffff)
 
 
 
